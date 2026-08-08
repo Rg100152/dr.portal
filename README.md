@@ -46,7 +46,7 @@
 ## 🚀 **Features**
 
 ### 🔹 **Patient Booking Flow**
-```
+
 1️⃣ Choose Department → 2️⃣ Select Doctor → 3️⃣ Pick Date & Time → 4️⃣ Enter Details → 5️⃣ Confirm
 
 
